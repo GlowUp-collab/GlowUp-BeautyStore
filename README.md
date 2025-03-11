@@ -1,2 +1,2 @@
 # GlowUp-BeautyStore
-Collaboration with GlowUp-BeautyStorr
+Collaboration with GlowUp-BeautyStore
